@@ -1,6 +1,12 @@
 ## Ebony Schultz
 Hello Everyone! My name is Ebony Schultz. I am Arikara and a member of the MHA Nation tribe in North Dakota. Currently, I am an Environmental Science undergrad student at United Tribes Technical College and am so ecstatic to be an ESIIL STAR! I was born and raised in North Dakota. I love to hike, kayak, fish, play volleyball... almost anything outdoors. 
 
+
+#### My Family
+![P1270106 2](https://github.com/ESchultz2024/ESchultz2024.github.io/assets/166164323/98126f62-c6ae-4cb0-8ad6-93ea152216db)
+![Kippy](img/IMG_0697.jpg)
+
+
 #### Contact Information:
 + schultz.ebony@stu.uttc.edu
 + [GitHub](https://github.com/ESchultz2024/ESchultz2024.github.io)
